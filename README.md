@@ -1,4 +1,4 @@
-# covid_cpm_india
+# Covid-19 India Cases Per Million Visualization
 ## Covid-19 Cases per million visualization
 
 This notebook is a work towards creating a visualization of number of cases per million in top 7 seven states in India in terms of number of comfirmed cases.
